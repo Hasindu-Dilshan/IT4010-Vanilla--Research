@@ -25,11 +25,14 @@ The proposed system integrates **Internet of Things (IoT), Computer Vision, and 
 
 ## 🏗️ Architectural Diagram
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/Hasindu-Dilshan/IT4010-Vanilla--Research/main/System_Architecture_Placeholder.png" alt="System Architecture" width="900">
   <br>
+  
   <em>Figure 1: High-level System Architecture integrating IoT Sensors, Cloud Analytics, and Mobile Interfaces</em>
-</div>
+</div -->
+
+![System Architecture Diagram](achitecture_diagram.jpeg)
 
 ---
 
